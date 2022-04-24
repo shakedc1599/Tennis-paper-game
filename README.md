@@ -20,3 +20,7 @@ Running examples and more details about the game can be found [here](https://en.
 2. Open the project folder from the Terminal.
 3. Run the script "./tennis.sh".
 4. Enjoy.
+
+![image](https://user-images.githubusercontent.com/47411973/164978536-17ff8b70-4e8b-477e-b368-5987ae8c997f.png)
+![image](https://user-images.githubusercontent.com/47411973/164978553-071674d1-1c38-4cb3-8174-5559f900f481.png)
+
