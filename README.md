@@ -21,6 +21,7 @@ Running examples and more details about the game can be found [here](https://en.
 3. Run the script "./tennis.sh".
 4. Enjoy.
 
-![image](https://user-images.githubusercontent.com/47411973/164978536-17ff8b70-4e8b-477e-b368-5987ae8c997f.png)
-![image](https://user-images.githubusercontent.com/47411973/164978553-071674d1-1c38-4cb3-8174-5559f900f481.png)
+![image](https://user-images.githubusercontent.com/47411973/164978572-0298ab44-c861-42bf-a671-4f237661778b.png)
+![image](https://user-images.githubusercontent.com/47411973/164978620-7b650db6-5a04-4d82-949f-205d8d7ebe1d.png)
+
 
