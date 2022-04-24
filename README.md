@@ -22,6 +22,5 @@ Running examples and more details about the game can be found [here](https://en.
 4. Enjoy.
 
 ![image](https://user-images.githubusercontent.com/47411973/164978572-0298ab44-c861-42bf-a671-4f237661778b.png)
-![image](https://user-images.githubusercontent.com/47411973/164978620-7b650db6-5a04-4d82-949f-205d8d7ebe1d.png)
-
+![image](https://user-images.githubusercontent.com/47411973/164978748-5bfa85f8-54b7-47a0-b95c-5470607ed151.png)
 
